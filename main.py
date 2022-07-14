@@ -1,7 +1,4 @@
 # Minha primeira ferramenta de pentest construida no curso de pentest
-'''
-Portscan
-'''
 
 import socket
 
